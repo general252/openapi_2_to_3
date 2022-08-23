@@ -4,7 +4,8 @@
 
 install
 ```
-go install github.com/general252/openapi_2_to_3/cmd/openapi_2to3
+go   get   github.com/general252/openapi_2_to_3/cmd/openapi_2to3@v1.0.0
+go install github.com/general252/openapi_2_to_3/cmd/openapi_2to3@v1.0.0
 ```
 
 ---
